@@ -3,7 +3,7 @@ En este repositorio se encuentran alojados los cuadernos interactivos con la res
 ## Tarea No.1
 Implementación del algoritmo K-Means desde cero y utilizar el algoritmo GMM de la librería sklearn para comparar los tipos de clustering.
 
-Solución: [Tarea No.1](TareaNo1.ipynb)
+Solución: [Tarea No.1](Tarea_I_SLII.ipynb)
 
 ## Datos personales:
 José Fernando Pérez Pérez,
