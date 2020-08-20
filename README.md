@@ -5,6 +5,11 @@ Implementación del algoritmo K-Means desde cero y utilizar el algoritmo GMM de 
 
 Solución: [Tarea No.1](Tarea_I_SLII.ipynb)
 
+## Tarea No.2
+Implementación del algoritmo PCA desde cero y utilizar el algoritmo tSNE de la librería sklearn para comparar distintos algoritmos para la reducción de dimensionalidad.
+
+Solución: [Tarea No.2](Tarea_II_SLII.ipynb)
+
 ## Datos personales:
 José Fernando Pérez Pérez,
 josefernando.perez@galileo.edu
