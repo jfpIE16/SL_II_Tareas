@@ -16,5 +16,5 @@ De forma analítica se muestra la "maldición de dimensionalidad" utilizando "Po
 Solución: [Tarea No.3](Tarea_III_SLII.ipynb)
 
 ## Datos personales:
-José Fernando Pérez Pérez,
+José Fernando Pérez Pérez,  
 josefernando.perez@galileo.edu
